@@ -1,0 +1,5 @@
+-This is a prototype of a client manager, perfect for an SME.
+
+In addition, it can save the information over time, so that you can use it, without any problem.
+
+-Its necesary have knowledge in python3 and tkinter.
